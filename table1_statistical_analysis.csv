@@ -1,0 +1,9 @@
+Comparison,Statistical_Test,N,Test_Statistic,P_Value,Effect_Size,Significance
+Income Level × Hallucination,Fisher's Exact Test (simulated),3248,Fisher's exact,< 0.001,V = 0.162,***
+LLM Model × Hallucination,Fisher's Exact Test (simulated),3248,Fisher's exact,< 0.001,V = 0.203,***
+Income Level × Geographic Bias,Fisher's Exact Test (simulated),1172,Fisher's exact,< 0.001,V = 0.189,***
+Citation Yield × Country,Chi-square Test,195,χ² = 0.35,1.000,V = 0.042,ns
+Citation Yield × LLM Model,Chi-square Test,195,χ² = 189.79,< 0.001,V = 0.987,***
+Citation Yield × Prompt Type,Chi-square Test,195,χ² = 0.02,ns,V = 0.011,ns
+Publication Period × Hallucination,Kruskal-Wallis,3087,H = 161.74,< 0.001,η² (post-hoc),***
+Citation Age × Hallucination,Spearman Correlation,3087,ρ = -0.110,< 0.001,ρ = -0.110,***
