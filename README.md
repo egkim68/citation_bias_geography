@@ -12,8 +12,7 @@ This repository contains data, analysis code, and API scripts examining geograph
 - `raw_citations_[model].csv` – Unvalidated citations from each LLM  
 - `raw_citations_[model]_validated.csv` – DOI-validated citations from each LLM  
 - `table2_statistical_analysis.csv` – Statistical test results and effect sizes  
-- `table3_citation_yield_summary.csv` – Citation yield summary (LLM Model, Conditions, Avg Citations per Condition, Response Rate (%), Conditions with Full 20 Citations)  
-- `complete_analysis.R` – Full R analysis script  
+- `table3_citation_yield_summary.csv` – Citation yield summary (LLM Model, Conditions, Avg Citations per Condition, Response Rate (%), Conditions with Full 20 Citations)   
 - `[model]_api.py` – API scripts for LLM citation generation (with DOIs)  
 - `crossref_api.py` – CrossRef API script for DOI normalization and validation  
 
