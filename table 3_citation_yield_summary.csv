@@ -1,0 +1,5 @@
+LLM Model	Conditions	Avg Citations per Condition	Response Rate (%)	Conditions with Full 20 Citations
+Claude-3-haiku	50	20.3/20	101.5	33/50 (66%)
+DeepSeek V3	50	20.1/20	100.3	46/50 (92%)
+GPT-4o-mini	45	19.7/20	98.3	32/45 (71%)
+Gemini-2.0-flash-lite	50	11.0/20	54.8	0/50 (0%)
